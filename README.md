@@ -1,5 +1,7 @@
 # vue_todo_list
 
+Basic todo list, with HTTP request to https://jsonplaceholder.typicode.com/todos
+
 ## Project setup
 ```
 npm install
